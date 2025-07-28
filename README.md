@@ -28,12 +28,19 @@ The project explores how organizations can leverage ESG data responsibly through
 
 NTI_Data_Governance_ESG_Project/
 │
+
 ├── data/ → ESG datasets (.xlsx, .csv)
+
 ├── notebooks/ → Jupyter Notebooks (.ipynb)
+
 ├── powerbi/ → Power BI dashboards (.pbix)
+
 ├── tableau/ → Tableau dashboards (.twb)
+
 ├── docs/ → Word report (.docx)
+
 ├── README.md → Project overview
+
 
 ## 📌 Main Questions Answered
 -	 What is the percentage of companies with a large number of independent board            members?
