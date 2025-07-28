@@ -43,11 +43,11 @@ NTI_Data_Governance_ESG_Project/
 
 
 ## 📌 Main Questions Answered
--	 What is the percentage of companies with a large number of independent board            members?
--	  How are ESG scores distributed across different countries?
--	 How do sectors vary in terms of corruption levels and ESG scores?
--	 What is the revenue size in different countries in relation to corruption?
--	 Is there a relationship between companies’ governance (ESG) scores and
+- What is the percentage of companies with a large number of independent board            members?
+- How are ESG scores distributed across different countries?
+- How do sectors vary in terms of corruption levels and ESG scores?
+- What is the revenue size in different countries in relation to corruption?
+- Is there a relationship between companies’ governance (ESG) scores and
 	 corruption?
 - Which sectors are the largest in terms of total number of employees, and how do
    they compare proportionally?
